@@ -21,10 +21,10 @@
     https://stackoverflow.com/questions/164163/quicksort-choosing-the-pivot
 */
 function partition(nums, left = 0, right = nums.length-1) {
-    let pivot = nums(Math.floor(left+right)) / 2;
+    let pivot = nums[Math.floor((left+right) / 2)];
     while (left < right) {
         while (nums[left] < pivot) {
-        left++
+            left++
         }
         while (nums[right] > pivot) {
             right--
@@ -33,4 +33,4 @@ function partition(nums, left = 0, right = nums.length-1) {
     }
     return nums;
 }
-console.log(partition([2,7,4,6,4,9,1,0]))
+console.log(partition([2,7,4,6,9,1,0]))
