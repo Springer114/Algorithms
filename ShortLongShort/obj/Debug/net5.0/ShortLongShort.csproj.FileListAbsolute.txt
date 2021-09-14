@@ -1,0 +1,16 @@
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\obj\Debug\net5.0\ShortLongShort.csproj.AssemblyReference.cache
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\obj\Debug\net5.0\ShortLongShort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\obj\Debug\net5.0\ShortLongShort.AssemblyInfoInputs.cache
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\obj\Debug\net5.0\ShortLongShort.AssemblyInfo.cs
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\obj\Debug\net5.0\ShortLongShort.csproj.CoreCompileInputs.cache
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\bin\Debug\net5.0\ShortLongShort.exe
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\bin\Debug\net5.0\ShortLongShort.deps.json
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\bin\Debug\net5.0\ShortLongShort.runtimeconfig.json
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\bin\Debug\net5.0\ShortLongShort.runtimeconfig.dev.json
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\bin\Debug\net5.0\ShortLongShort.dll
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\bin\Debug\net5.0\ref\ShortLongShort.dll
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\bin\Debug\net5.0\ShortLongShort.pdb
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\obj\Debug\net5.0\ShortLongShort.dll
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\obj\Debug\net5.0\ref\ShortLongShort.dll
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\obj\Debug\net5.0\ShortLongShort.pdb
+C:\Users\sprin\Documents\Dojo_Assignments\Algos\ShortLongShort\obj\Debug\net5.0\ShortLongShort.genruntimeconfig.cache
